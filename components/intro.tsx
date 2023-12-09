@@ -1,3 +1,5 @@
+import React from 'react'
+
 import { CMS_NAME } from '../lib/constants'
 
 const Intro = () => {
